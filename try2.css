@@ -1,0 +1,34 @@
+*{
+    background-color: cyan;
+}
+
+.heading{
+    text-align: center;
+}
+
+.mainbody{
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    
+}
+
+
+hr {  
+    border: 1px solid #f1f1f1;  
+    margin-bottom: 25px;  
+  } 
+  
+input[type=text], input[type=password],input[type=email], textarea {  
+    width: 100%;  
+    padding: 15px;  
+    margin: 5px 0 22px 0;  
+    display: inline-block;  
+    border: none;  
+    background: #f1f1f1;  
+  }  
+  input[type=text]:focus, input[type=password]:focus {  
+    background-color: orange;  
+    outline: none;  
+  }
+
